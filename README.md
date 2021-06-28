@@ -19,7 +19,7 @@ Je suis un développeur web FullStack passionné par mon métier, en recherche c
 <img align="left" alt="vue" src="https://img.shields.io/badge/vue.js%20-%2320232a.svg?&style=for-the-badge&logo=vue.js&logoColor=green&color=black" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=black" />
 <img align="left" alt="nestjs" src="https://img.shields.io/badge/nest.js%20-%2343853D.svg?&style=for-the-badge&logo=nest.js&logoColor=white&color=black" />
-<img align="left" alt="php" src="https://img.shields.io/badge/php%20-%2343853D.svg?&style=for-the-badge&logo=php&logoColor=white&color=black" />
+<img align="left" alt="php" src="https://img.shields.io/badge/php%20-%2343853D.svg?&style=for-the-badge&logo=php&logoColor=blue&color=black" />
 <img align="left" alt="symfony" src="https://img.shields.io/badge/symfony%20-%2343853D.svg?&style=for-the-badge&logo=symfony&logoColor=white&color=black" />
 <img align="left" alt="docker" src="https://img.shields.io/badge/docker%20-%2343853D.svg?&style=for-the-badge&logo=docker&logoColor=white&color=black" />
 <img align="left" alt="git" src="https://img.shields.io/badge/git%20-%2343853D.svg?&style=for-the-badge&logo=git&logoColor=white&color=black" />
