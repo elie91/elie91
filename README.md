@@ -11,8 +11,7 @@ Je suis un développeur web FullStack passionné par mon métier, en recherche c
 <br>
 <br>
 
-<a href="https://app.daily.dev/Elie91"><img src="https://api.daily.dev/devcards/8e94c79bcc0b45e1b250587e6f7a1da1.png?r=dzz" width="400" alt="Elie's Dev Card"/></a>
-
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
 ## Expertise
 
