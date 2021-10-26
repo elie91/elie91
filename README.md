@@ -11,8 +11,6 @@ Je suis un développeur web FullStack passionné par mon métier, en recherche c
 <br>
 <br>
 
-<!--- <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/elie91/elie91/blob/main/devcard.svg" width="400" alt="Elie's Dev Card"/></a>
--->
 ## Expertise
 
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%2343853D.svg?&style=for-the-badge&logo=javascript&logoColor=orange&color=black" />
@@ -30,3 +28,6 @@ Je suis un développeur web FullStack passionné par mon métier, en recherche c
 <img align="left" alt="sass" src="https://img.shields.io/badge/sass%20-%2343853D.svg?&style=for-the-badge&logo=sass&logoColor=white&color=black" />
 <br>
 <br>
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/elie91/elie91/blob/main/devcard.svg" width="400" alt="Elie's Dev Card"/></a>
+
