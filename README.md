@@ -1,7 +1,5 @@
 ### Hello 👋
 
-[//]: <> <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/elie91/elie91/blob/main/devcard.svg" width="250" alt="Elie's Dev Card"/></a>
-
 Je suis un développeur web FullStack passionné par mon métier, en recherche constante d'amélioration sur les bonnes pratiques et sur le clean code.
 <br>
 
