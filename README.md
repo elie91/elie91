@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, Je m'appelle Elie Bismuth</h1>
-<h3 align="center">Développeur Web Fullstack passionné par le code et les bonnes pratiques</h3>
+<h1 align="center">Elie Bismuth</h1>
+<h3 align="center">Software Engineer FullStack, loving clean code, good pratices, algo and architecture </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elie91&label=Profile%20views&color=0e75b6&style=flat" alt="elie91" /> </p>
 
