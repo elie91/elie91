@@ -1,13 +1,19 @@
-<h1 align="center">Elie Bismuth</h1>
-<h3 align="center">Software Engineer FullStack, loving clean code, good pratices, algo and architecture </h3>
+# Passionate Fullstack Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elie91&label=Profile%20views&color=0e75b6&style=flat" alt="elie91" /> </p>
+I combine in-depth technical expertise with a product-centric approach. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elie91" alt="elie91" /></a> </p>
+I'm committed to delivering high-quality solutions by working closely with product teams.
 
-- 📫 How to reach me **eliebismuth91@gmail.com**
+Always on the lookout for the latest technological trends, I make sure to integrate relevant innovations to continuously improve results.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/elie-bismuth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/elie-bismuth" height="30" width="40" /></a>
-</p>
+## Skills
+
+- **Backend:** NodeJs (NestJs, Express, Apollo GraphQL)
+- **Frontend:** NextJS, ReactJS, Redux
+- **Database:** Postgres, MongoDB
+- **Testing:** Jest, Cypress, React Testing Library
+
+## Contact
+
+- **LinkedIn:** [Elie Bismuth](https://www.linkedin.com/in/elie-bismuth/)
+- **Email:** [eliebismuth91@gmail.com](mailto:eliebismuth91@gmail.com)
