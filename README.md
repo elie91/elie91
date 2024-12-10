@@ -8,9 +8,10 @@ Always on the lookout for the latest technological trends, I make sure to integr
 
 ## Skills
 
-- **Backend:** NodeJs (NestJs, Express, Apollo GraphQL)
-- **Frontend:** NextJS, ReactJS, Redux
-- **Database:** Postgres, MongoDB
+- **Languages:**: Javascript, Typescript, Python, PHP
+- **Backend:** NodeJs (NestJs, Express), GraphQL, Symfony, Django
+- **Frontend:** NextJS, ReactJS, VueJs, Twig
+- **Database:** Postgres, MongoDB, Firebase
 - **Testing:** Jest, Cypress, React Testing Library
 
 ## Contact
