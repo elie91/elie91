@@ -1,4 +1,4 @@
-# Passionate Fullstack Engineer
+# Full-Stack Engineer, Node/React Expert
 
 I combine in-depth technical expertise with a product-centric approach. 
 
@@ -8,9 +8,9 @@ Always on the lookout for the latest technological trends, I make sure to integr
 
 ## Skills
 
-- **Languages:**: Javascript, Typescript, Python, PHP
-- **Backend:** NodeJs (NestJs, Express), GraphQL, Symfony, Django
-- **Frontend:** NextJS, ReactJS, VueJs, Twig
+- **Languages:**: Javascript, Typescript, Python
+- **Backend:** NodeJs (NestJs, Express), GraphQL
+- **Frontend:** NextJs, ReactJs
 - **Database:** Postgres, MongoDB, Firebase
 - **Testing:** Jest, Cypress, React Testing Library
 
