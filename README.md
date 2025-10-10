@@ -1,20 +1,16 @@
-# Full-Stack Engineer, Node/React Expert
+Fullstack Engineer who builds web products from scratch to scale.
 
-I combine in-depth technical expertise with a product-centric approach. 
+5+ years of experience in startups & scale-ups — from first prototype to production systems that scale.
 
-I'm committed to delivering high-quality solutions by working closely with product teams.
+My journey: I've contributed to products in recruitment (HireSweet), sales (Topo), and legal tech (Doctrine). What drives me? Turning complex problems into elegant solutions.
 
-Always on the lookout for the latest technological trends, I make sure to integrate relevant innovations to continuously improve results.
+Stack: TypeScript on both sides — React/Next.js on the frontend, Node.js/Nest.js on the backend. SQL & NoSQL databases. Docker, CI/CD, automated testing.
 
-## Skills
+My approach: Clean code, architecture built to last, continuous improvement. I love building from scratch and laying solid technical foundations — while keeping the ability to iterate fast.
 
-- **Languages:**: Javascript, Typescript, Python
-- **Backend:** NodeJs (NestJs, Express), GraphQL
-- **Frontend:** NextJs, ReactJs
-- **Database:** Postgres, MongoDB, Firebase
-- **Testing:** Jest, Cypress, React Testing Library
+What motivates me: Impact. Seeing a product evolve, solving real problems, and the team growing around it. I'm looking for ambitious projects with teams who want to build something they're proud of.
 
-## Contact
+Master's degree in Software Engineering. Always learning — certified in JS expert, data structures, algorithmic complexity.
 
-- **LinkedIn:** [Elie Bismuth](https://www.linkedin.com/in/elie-bismuth/)
-- **Email:** [eliebismuth91@gmail.com](mailto:eliebismuth91@gmail.com)
+🚀 Open to the right opportunities
+📩 eliebismuth91@gmail.com
