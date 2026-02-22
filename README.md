@@ -1,16 +1,17 @@
-Fullstack Engineer who builds web products from scratch to scale.
+Senior Fullstack Engineer specializing in AI — Building web products from 0 to scale
 
-5+ years of experience in startups & scale-ups — from first prototype to production systems that scale.
+6 years shipping products in startups & scale-ups, from MVP to production systems serving thousands of users. Specialized in AI/LLM integration, RAG systems, and prompt engineering in production environments.
 
-My journey: I've contributed to products in recruitment (HireSweet), sales (Topo), and legal tech (Doctrine). What drives me? Turning complex problems into elegant solutions.
+My journey spans recruitment, B2B sales, and AI legal tech — consistently transforming complex problems into elegant, scalable solutions.
 
-Stack: TypeScript on both sides — React/Next.js on the frontend, Node.js/Nest.js on the backend. SQL & NoSQL databases. Docker, CI/CD, automated testing.
+Stack: TypeScript end-to-end — React/Next.js, Node.js/NestJS, PostgreSQL/MongoDB, GraphQL, Datadog, AWS.
+AI/LLM: OpenAI, Anthropic Claude, RAG pipelines, embeddings, prompt engineering.
 
-My approach: Clean code, architecture built to last, continuous improvement. I love building from scratch and laying solid technical foundations — while keeping the ability to iterate fast.
+My approach: Clean architecture, iterative delivery, balancing quality with velocity. I thrive on building solid technical foundations while maintaining high shipping cadence.
 
-What motivates me: Impact. Seeing a product evolve, solving real problems, and the team growing around it. I'm looking for ambitious projects with teams who want to build something they're proud of.
+What drives me: Impact. Shipping features users love, solving real problems at scale, and building with talented teams who care about craft.
 
-Master's degree in Software Engineering. Always learning — certified in JS expert, data structures, algorithmic complexity.
+Master's in Software Engineering. Lifelong learner — certified expert in JavaScript, algorithms, data structures.
 
-🚀 Open to the right opportunities
+🚀 Open to impactful AI/LLM opportunities (remote-first preferred)
 📩 eliebismuth91@gmail.com
